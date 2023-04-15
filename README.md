@@ -1,1 +1,1 @@
-# THM_Notes
+# Sec_Notes
